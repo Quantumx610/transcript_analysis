@@ -1,0 +1,6 @@
+transcript_analytics_framework/.env
+transcript_analytics_framework/prompts/__pycache__
+transcript_analytics_framework/processors/__pycache__
+transcript_analytics_framework/__pycache__
+transcript_analytics_framework/data/output
+transcript_analytics_framework/data/input
